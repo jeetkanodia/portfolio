@@ -28,7 +28,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Tech Enthusiast with a knack of code
+            Fueling innovation with a passionate tech heart, I'm a code maverick
+            crafting digital marvels!
           </p>
           <div>
             <Link
