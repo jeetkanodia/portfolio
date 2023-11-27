@@ -25,6 +25,16 @@ const projectsData = [
     previewUrl: "https://botify-jeetkanodia.vercel.app/",
     image: "/images/projects/botify.png",
   },
+  {
+    id: 3,
+    title: "Portfolio Website",
+    description:
+      "My portfolio website built with Next.js, Tailwind CSS, Framer Motion and uses MongoDB to store the emails.",
+    gitUrl: "https://github.com/jeetkanodia/portfolio",
+    tag: ["All", "Frontend", "Backend"],
+    previewUrl: "https://portfolio-jeetkanodia.vercel.app",
+    image: "/images/projects/portfolio.png",
+  },
 ];
 
 const ProjectsSection = () => {
