@@ -25,8 +25,18 @@ const projectsData = [
     previewUrl: "https://botify-jeetkanodia.vercel.app/",
     image: "/images/projects/botify.png",
   },
+
   {
     id: 3,
+    title: "Sarpanch: The Multipurpose Discord Bot",
+    description:
+      "Sarpanch: Versatile Discord Bot with Discord.js v14, featuring games, a currency system, and slash command support. Rigorously updated and secured with rate limits, the bot is a collaborative effort with Team Troubleshooters, ensuring a seamless user experience. Built using JavaScript, Express JS, Node, and Discord.js v14.",
+    tag: ["All", "Backend"],
+    gitUrl: "https://github.com/YuvrajxGarg/sarpanch",
+    image: "/images/projects/sarpanch.png",
+  },
+  {
+    id: 4,
     title: "Portfolio Website",
     description:
       "My portfolio website built with Next.js, Tailwind CSS, Framer Motion and uses MongoDB to store the emails.",
