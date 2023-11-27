@@ -15,6 +15,16 @@ const projectsData = [
     gitUrl: "https://github.com/jeetkanodia/MentalHealth-frontend",
     previewUrl: "https://mental-health-frontend-neon.vercel.app",
   },
+  {
+    id: 2,
+    title: "Botify",
+    description:
+      "Botify is a Spotify clone built with React and RapidApi's - Shazam Core Api, where users can search for songs, artists and play a preview of the song.",
+    gitUrl: "https://github.com/jeetkanodia/Botify",
+    tag: ["All", "Frontend"],
+    previewUrl: "https://botify-jeetkanodia.vercel.app/",
+    image: "/images/projects/botify.png",
+  },
 ];
 
 const ProjectsSection = () => {
