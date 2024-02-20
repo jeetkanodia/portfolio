@@ -22,7 +22,7 @@ const projectsData = [
       "Botify is a Spotify clone built with React and RapidApi's - Shazam Core Api, where users can search for songs, artists and play a preview of the song.",
     gitUrl: "https://github.com/jeetkanodia/Botify",
     tag: ["All", "Frontend"],
-    previewUrl: "https://botify-jeetkanodia.vercel.app/",
+    previewUrl: "https://botify-clone.vercel.app/",
     image: "/images/projects/botify.png",
   },
 
