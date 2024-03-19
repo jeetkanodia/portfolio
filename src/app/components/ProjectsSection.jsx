@@ -7,6 +7,16 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "DSA Tracker",
+    description:
+      "A cutting-edge platform revolutionizing how users master Data Structures and Algorithms. With seamless authentication, curated questions, and insightful progress tracking, it offers an immersive learning experience. Enhance your coding skills, and visualize your progress like never before. Dive into DSA Tracker today and accelerate your coding journey!",
+    image: "/images/projects/dsatracker.jpeg",
+    tag: ["All", "Frontend", "Backend"],
+    gitUrl: "https://github.com/jeetkanodia/dsatracker",
+    previewUrl: "https://dsatracker-jeetkanodia.vercel.app",
+  },
+  {
+    id: 2,
     title: "Sukoon - Mental Health Website",
     description:
       "Empowering users to assess their mental well-being through articulated tests, share personal stories via user-generated blogs, and connect with experts; Sukoon, built with the MERN stack and MongoDB, serves as a supportive platform for fostering community and accessing mental health resources.",
@@ -16,7 +26,7 @@ const projectsData = [
     previewUrl: "https://mental-health-frontend-neon.vercel.app",
   },
   {
-    id: 2,
+    id: 3,
     title: "Botify",
     description:
       "Botify is a Spotify clone built with React and RapidApi's - Shazam Core Api, where users can search for songs, artists and play a preview of the song.",
@@ -27,7 +37,7 @@ const projectsData = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Sarpanch: The Multipurpose Discord Bot",
     description:
       "Sarpanch: Versatile Discord Bot with Discord.js v14, featuring games, a currency system, and slash command support. Rigorously updated and secured with rate limits, the bot is a collaborative effort with Team Troubleshooters, ensuring a seamless user experience. Built using JavaScript, Express JS, Node, and Discord.js v14.",
@@ -36,7 +46,7 @@ const projectsData = [
     image: "/images/projects/sarpanch.png",
   },
   {
-    id: 4,
+    id: 5,
     title: "Portfolio Website",
     description:
       "My portfolio website built with Next.js, Tailwind CSS, Framer Motion and uses MongoDB to store the emails.",
